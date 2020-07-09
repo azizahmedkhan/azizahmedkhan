@@ -1,6 +1,6 @@
 Hello Friends,
 
-Java is getting heavy.
-Scala is focused.
-Python is ML
-JavaScript is beautiful and pretty :)
+Java is getting heavy. <br/>
+Scala is BigData. <br/>
+Python is ML. <br/>
+JavaScript is beautiful and pretty :) 
